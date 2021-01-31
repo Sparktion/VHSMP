@@ -30,7 +30,7 @@ This modpack contains:
 
  
 
-Modlist (For technical gamers):
+Modlist:
 
 <details>
   <summary>Modlist</summary>

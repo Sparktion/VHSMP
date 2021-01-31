@@ -1,0 +1,2 @@
+# VHSMP
+VibeHutSMP | Custom Modpack

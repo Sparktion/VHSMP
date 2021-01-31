@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Bug Report
+name: Crash Report
+about: Crash Report
 title: ''
 labels: ''
 assignees: ''

@@ -5,6 +5,7 @@ Welcome to the VibeHutSMP Modpack page! This modpack is intended for multiplayer
 These mods provide a semi-vanilla experience, but has a good balance between mods and vanilla features. If you want a balanced modpack with both vanilla and modded features, then this pack is for you!
 
 CurseForge (Only contains client file): https://www.curseforge.com/minecraft/modpacks/vibehutsmp
+
 Alternate Dropbox Link (Contains Server File): https://www.dropbox.com/sh/lq834tghsgvmcq7/AAC3YBDUuSRtLR4JCiQ6w1j9a?dl=0
 
 This modpack contains:

@@ -40,189 +40,214 @@ Modlist:
   <summary>Modlist</summary>
 
   ```
-Just Enough Items (JEI) (by mezz)
-
-ZeroCore 2 (by ZeroNoRyouki)
-
-RFTools Base (by McJty)
-
-EzZoom (by JTK222)
-
-Mystical Agradditions (by BlakeBr0)
-
-Ex Nihilo: Sequentia (by NovaMachina)
-
-RandomPatches (Forge) (by TheRandomLabs)
-
-Integrated Dynamics (by kroeser)
-
-Pam's HarvestCraft 2 - Food Extended (by pamharvestcraft)
-
-Ender Storage 1.8.+ (by covers1624)
-
-Environmental Tech (by ValkyrieofNight)
-
-JEITweaker (by Jaredlll08)
-
-Powah! (by owmii)
-
-Storage Drawers (by Texelsaur)
-
-Industrial Foregoing (by Buuz135)
-
-Lollipop (by owmii)
-
-Cucumber Library (by BlakeBr0)
-
-Vein Mining (Forge) (by TheIllusiveC4)
-
-GraveStone Mod (by henkelmax)
-
-ValkyrieLib (by ValkyrieofNight)
-
-Chlorine (by hanetzer)
-
-U Team Core (by HyCraftHD)
-
-IAP [Silent's Mechanisms] (by ArrowsendGaming)
-
-Silent Lib (by SilentChaos512)
-
-Refined Pipes (by raoulvdberge)
-
-Integrated Terminals (by kroeser)
-
-Cyclops Core (by kroeser)
-
-Trash Cans (by SuperMartijn642)
-
-XNet Gases (by Terrails)
-
-Titanium (by hrznstudio)
-
-Silent Gear (by SilentChaos512)
-
-Silent's Gems (by SilentChaos512)
-
-Pam's HarvestCraft 2 - Trees (by pamharvestcraft)
-
-Environmental Core (by ValkyrieofNight)
-
-Immersive Engineering (by BluSunrize)
-
-Flux Networks (by sonar_sonic)
-
-Integrated Crafting (by kroeser)
-
-Useful Backpacks (by HyCraftHD)
-
-Mystical Agriculture (by BlakeBr0)
-
-Create (by simibubi)
-
-IAP [Silent's Gems] (by ArrowsendGaming)
-
-Uppers (by vadis365)
-
-Integrated NBT (by scleox)
-
-Construction Wand (by ThetaDev)
-
-MixinBootstrap (by LX_Gaming)
-
-TrashSlot (by BlayTheNinth)
-
-Pig Poop (Fabric) (by Focamacho)
-
-Integrated REST (by kroeser)
-
-Patchouli (by Vazkii)
-
-IAP [Industrial Foregoing] (by ArrowsendGaming)
-
-Step (by ModdingLegacy)
-
-CraftTweaker (by Jaredlll08)
-
-Extreme Reactors (by ZeroNoRyouki)
-
-CB: Compressed Blocks (by sa_shi_ro)
-
-Mekanism (by bradyaidanc)
-
-Refined Storage (by raoulvdberge)
-
-McJtyLib (by McJty)
-
-Integrated Tunnels (by kroeser)
-
-Neat (by Vazkii)
-
-Mekanism Generators (by bradyaidanc)
-
-Mekanism Tools (by bradyaidanc)
-
-FerriteCore (by malte0811)
-
-CodeChicken Lib 1.8.+ (by covers1624)
-
-Thermal Foundation (by TeamCoFH)
-
-IAP [Powah] (by ArrowsendGaming)
-
-Pam's HarvestCraft 2 - Crops (by pamharvestcraft)
-
-CoFH Core (by TeamCoFH)
-
-Thermal Expansion (by TeamCoFH)
-
-Quark (by Vazkii)
-
-Just Enough Resources (JER) (by way2muchnoise)
-
-Common Capabilities (by kroeser)
-
-Decorative Blocks (by stohun)
-
-Clumps (by Jaredlll08)
-
-Einstein's Library (by MincraftEinstein)
-
-IAP [Mekanism] (by ArrowsendGaming)
-
-Leap (by ModdingLegacy)
-
-Silent's Mechanisms (by SilentChaos512)
-
-Iron Chests (by ProgWML6)
-
-AutoRegLib (by Vazkii)
-
-Pam's HarvestCraft 2 - Food Core (by pamharvestcraft)
-
-Fabric API (by modmuss50)
-
-Extended Crafting (by BlakeBr0)
-
-Applied Energistics 2 (by AlgorithmX2)
-
-Unity: Dark Edition (by theCyanideX)
-
-XNet (by McJty)
-
 Industrial Agriculture (by ArrowsendGaming)
-
-Useful Slime (by MincraftEinstein)
-
-Pickle Tweaks (by BlakeBr0)
-
-Controlling (by Jaredlll08)
-
-Xaero's Minimap (by xaero96)
-
-Hwyla (by TehNut)
-
+Just Enough Resources (JER) (by way2muchnoise)
+Basic Nether Ores [Forge/Fabric] (by cScotPlay)
+PneumaticCraft: Repressurized (by desht_08)
+Integrated NBT (by scleox)
+RFTools Power (by McJty)
+Create (by simibubi)
+EnderTanks (by ShetiPhian)
+Thermal Cultivation (by TeamCoFH)
+Extra Disks (by MelanX)
+Mystical Agradditions (by BlakeBr0)
+Simply Jetpacks 2 (by Tomson124)
+Health Overlay (by Terrails)
+Absent by Design (by Lothrazar)
+IAP [Powah] (by ArrowsendGaming)
+Morpheus (by Quetzi)
+ZeroCore 2 (by ZeroNoRyouki)
+Botania (by Vazkii)
+QuantumStorage (by GigaBit101)
+Step (by ModdingLegacy)
+Pam's HarvestCraft 2 - Trees (by pamharvestcraft)
+Immersive Portals (for Forge) (by qouteall)
+Powah! (by owmii)
+Tinkers' Mechworks (by mDiyo)
+Pam's HarvestCraft 2 - Food Extended (by pamharvestcraft)
+Gaia Dimension (by Squiggly_Androsa)
+IAP [Silent's Mechanisms] (by ArrowsendGaming)
+Thermal Foundation (by TeamCoFH)
+Chlorine (by hanetzer)
+Mekanism Additions (by bradyaidanc)
+Mekanism (by bradyaidanc)
+Ex Nihilo: Sequentia (by NovaMachina)
+Mekanism Generators (by bradyaidanc)
+Buzzier Bees (by TeamAbnormals)
+Mekanism Tools (by bradyaidanc)
+CoFH Core (by TeamCoFH)
+Ender Storage 1.8.+ (by covers1624)
+Thermal Expansion (by TeamCoFH)
+ATO - All the Ores (by ATMTeam)
+Simply Light (by Flanks255)
+MattDahEpic Core (MDECore) (by MattDahEpic)
+RFTools Control (by McJty)
+Abnormals Core (by TeamAbnormals)
+Waystones (by BlayTheNinth)
+Ding (by ohaiiChun)
+KubeJS Immersive Engineering (by LatvianModder)
+Placebo (by Shadows_of_Fire)
+JAOPCA (by TheLMiffy1111)
+FTB Ultimine (by FTB)
+RFTools Builder (by McJty)
+Integrated Dynamics (by kroeser)
+MixinBootstrap (by LX_Gaming)
+Better Advancements (by way2muchnoise)
+Integrated Terminals (by kroeser)
+Silent Lib (by SilentChaos512)
+Bookshelf (by DarkhaxDev)
+GraveStone Mod (by henkelmax)
+Flux Networks (by sonar_sonic)
+Silent Gear (by SilentChaos512)
+AIOT Botania (by MelanX)
+Eidolon (by elucent_)
+Resourceful Bees (by epic_oreo)
+Trash Cans (by SuperMartijn642)
+OpenBlocks Elevator (by vsngarcia)
+Integrated Tunnels (by kroeser)
+Extreme Reactors (by ZeroNoRyouki)
+Water Strainer (by Ruuubi)
+Construction Wand (by ThetaDev)
+Waila Harvestability (by squeek502)
+AI Improvements (by DarkGuardsman)
+RFTools Base (by McJty)
+The Endergetic Expansion (by TeamAbnormals)
+Spartan Weaponry (by ObliviousSpartan)
+YUNG's API (Forge) (by YUNGNICKYOUNG)
+Light Overlay (Rift/Forge/Fabric) (by shedaniel)
+Morph-o-Tool (by Vazkii)
+RFTools Storage (by McJty)
+Track API (by cam72cam)
+Rhino (by LatvianModder)
+Carry On (by Tschipp)
+IAP [Mekanism] (by ArrowsendGaming)
+Sit (by bl4ckscor3)
+Solar Flux Reborn (by Zeitheron)
+Refined Storage (by raoulvdberge)
+Curious Elytra (Forge) (by TheIllusiveC4)
+Chocolate Fix (by AlcatrazEscapee)
 JEI Integration (by SnowShock35)
+Curios API (Forge) (by TheIllusiveC4)
+XNet (by McJty)
+Chargers (by GoryMoon)
+Immersive Engineering (by BluSunrize)
+ConnectedTexturesMod (by tterrag1098)
+CraftTweaker (by Jaredlll08)
+KubeJS (by LatvianModder)
+Einstein's Library (by MincraftEinstein)
+Oh The Biomes You'll Go (by AOCAWOL)
+YUNG's Better Caves (Forge) (by YUNGNICKYOUNG)
+Common Capabilities (by kroeser)
+U Team Core (by HyCraftHD)
+Macaw's Bridges (by sketch_macaw)
+Integrated REST (by kroeser)
+Fabric API (by modmuss50)
+Universal Mod Core (by cam72cam)
+Quark (by Vazkii)
+Industrial Foregoing (by Buuz135)
+AutoRegLib (by Vazkii)
+Quark Oddities (by Vazkii)
+Engineer's Decor (by wilechaote)
+Macaw's Furniture (by sketch_macaw)
+Architectury API (Forge) (by shedaniel)
+Paintings ++ (by AbsolemJackdaw)
+McJtyLib (by McJty)
+Click Machine (by Shadows_of_Fire)
+Torch Slabs Mod (by EndlesNights)
+Mantle (by mDiyo)
+Chance Cubes (by TurkeyDev)
+Refined Pipes (by raoulvdberge)
+Extended Lights (by Polyvalord)
+Useful Backpacks (by HyCraftHD)
+MrCrayfish's Furniture Mod (by MrCrayfish)
+Silent's Gems (by SilentChaos512)
+Biomes O' Plenty (by Forstride)
+Controlling (by Jaredlll08)
+Neverdark (by phantasmlix)
+Unity: Dark Edition (by theCyanideX)
+Better Title Screen (by Girafi)
+Blood Magic (by WayofTime)
+YUNG's Better Mineshafts (Forge) (by YUNGNICKYOUNG)
+Cyclic (by Lothrazar)
+Immersive Petroleum (by Flaxbeard)
+AttributeFix (by DarkhaxDev)
+FerriteCore (by malte0811)
+Immersive Railroading (by cam72cam)
+IAP [Silent's Gems] (by ArrowsendGaming)
+Pickle Tweaks (by BlakeBr0)
+AppleSkin (by squeek502)
+Craftable Horse Armour & Saddle [CHA&S] (by EwyBoy)
+Environmental Tech (by ValkyrieofNight)
+Auto Ore Dictionary Converter (by MattDahEpic)
+[FORGE] Iron Furnaces (by XenoMustache)
+Just Enough Items (JEI) (by mezz)
+Iron Chests (by ProgWML6)
+Lollipop (by owmii)
+IAP [Industrial Foregoing] (by ArrowsendGaming)
+Cloth Config API (Forge) (by shedaniel)
+ValkyrieLib (by ValkyrieofNight)
+Macaw's Windows (by sketch_macaw)
+Inventory Tweaks Renewed (by David1544)
+Caelus API (Forge) (by TheIllusiveC4)
+Overloaded Armor Bar (by tfarecnim)
+Silent's Mechanisms (by SilentChaos512)
+CB: Compressed Blocks (by sa_shi_ro)
+ReAuth (by TechnicianLP)
+Patchouli (by Vazkii)
+Thermal Innovation (by TeamCoFH)
+Charm Reforged (by svenhjol)
+RandomPatches (Forge) (by TheRandomLabs)
+Applied Energistics 2 (by AlgorithmX2)
+DataFixerSlayer (improves RAM usage) (by Vazkii)
+Leap (by ModdingLegacy)
+ShetiPhianCore (by ShetiPhian)
+Macaw's Doors (by sketch_macaw)
+Mystical Agriculture (by BlakeBr0)
+Performant (by someaddon)
+Pam's HarvestCraft 2 - Crops (by pamharvestcraft)
+Macaw's Trapdoors (by sketch_macaw)
+Inventory Pets (by Purplicious_Cow_)
+Environmental Core (by ValkyrieofNight)
+Dark Utilities (by DarkhaxDev)
+ObserverLib (by HellFirePvP)
+Pam's HarvestCraft 2 - Food Core (by pamharvestcraft)
+Runelic (by DarkhaxDev)
+RFTools Utility (by McJty)
+Extended Crafting (by BlakeBr0)
+TipTheScales (by Jaredlll08)
+Chicken Chunks 1.8.+ (by covers1624)
+Valhelsia Structures (by ValhelsiaTeam)
+Server Tab Info (by black_dog20)
+Decorative Blocks (by stohun)
+Toast Control (by Shadows_of_Fire)
+Refined Storage Addons (by raoulvdberge)
+Titanium (by hrznstudio)
+Cyclops Core (by kroeser)
+Mouse Tweaks (by YaLTeR)
+Vein Mining (Forge) (by TheIllusiveC4)
+Storage Drawers (by Texelsaur)
+Chisels & Bits (by AlgorithmX2)
+Clumps (by Jaredlll08)
+Immersive Posts (by TwistedGate)
+Pig Poop (Fabric) (by Focamacho)
+Integrated Crafting (by kroeser)
+More Ores In ONE (by KG20)
+Useful Slime (by MincraftEinstein)
+EzZoom (by JTK222)
+OldJavaWarning (by DarkhaxDev)
+Cucumber Library (by BlakeBr0)
+TrashSlot (by BlayTheNinth)
+CodeChicken Lib 1.8.+ (by covers1624)
+XNet Gases (by Terrails)
+JourneyMap (by techbrew)
+Nature's Compass (by Chaosyr)
+The Undergarden (by Quek04)
+Neat (by Vazkii)
+NetherPortalFix (by BlayTheNinth)
+Astral Sorcery (by HellFirePvP)
+JEITweaker (by Jaredlll08)
+Uppers (by vadis365)
+Engineer's Tools (by wilechaote)
 ```
 </details>
 

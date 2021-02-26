@@ -26,7 +26,7 @@ This modpack contains:
 
 - New enchantments such as, step, leap, and vein miner!
 
-- Resource based mods such as, Mystical Agriculture! There's diamond crops!?
+- Resource based mods such as, Mystical Agriculture! There's diamond crops!? (and also resourceful bees!)
 
  
 

@@ -8,9 +8,9 @@ CurseForge (Only contains client file):
 
 https://www.curseforge.com/minecraft/modpacks/vibehutsmp
 
-Alternate Dropbox Link (Contains Server File): 
+To-Do Project:
 
-https://www.dropbox.com/sh/lq834tghsgvmcq7/AAC3YBDUuSRtLR4JCiQ6w1j9a?dl=0
+https://github.com/users/Sparktion/projects/1
 
 This modpack contains:
 
